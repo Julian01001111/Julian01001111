@@ -25,7 +25,7 @@ Hi there, I'm Juliano Rodrigo.
 
 <a href="https://www.linkedin.com/in/juliano-rodrigo-88a1a1168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Julian01001111/Julian01001111/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/Julian01001111/Julian01001111/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--https://github.com/Julian01001111/Julian01001111/blob/output/github-contribution-grid-snake.svg-->
   <!--https://github.com/Julian01001111/Julian01001111/blob/main/.github/workflows/main.yml-->
