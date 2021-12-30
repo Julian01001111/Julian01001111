@@ -1,7 +1,7 @@
 Hi there, I'm Juliano Rodrigo.
 
 - 🔭 I’m currently working on Information technology.
-- 🌱 I’m currently learning react, node js and blockchain.
+- 🌱 I’m currently learning react, node js, Linux and blockchain.
 
 <div class= "container" align="center">
   <a href="https://github.com/Julian01001111">
